@@ -13,3 +13,18 @@
 	padding:5%;
 	
 }
+
+.home_li{
+	display: none;
+	background: #FBFBFB;
+	box-shadow: 0px 2px 12px 1px #DADADA;
+	position: relative;
+	z-index: 999;
+}
+#home_li_1{
+	display: block;
+}
+
+ul#home_content_list {
+    padding-left: 0;
+}
