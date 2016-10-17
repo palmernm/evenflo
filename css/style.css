@@ -16,8 +16,7 @@
 
 .home_li{
 	display: none;
-	background: #FBFBFB;
-	box-shadow: 0px 2px 12px 1px #DADADA;
+	background: #fff;
 	position: relative;
 	z-index: 999;
 }
@@ -27,4 +26,58 @@
 
 ul#home_content_list {
     padding-left: 0;
+}
+
+.nav-tabs li {
+    background: #5dc7cb;
+    border: .5px solid #fff;
+    color: #fff;
+}
+
+
+.nav-tabs.nav-justified>li>a {
+    border-bottom: 0px solid #ddd;
+    border-radius: 0;
+    padding: 20px;
+	color:#fff;
+}
+
+.nav-tabs.nav-justified>li a:hover {
+	background-color:#ec008b;
+	border-radius:0;
+}
+
+.nav-tabs.nav-justified>li.active {
+	background-color:#ec008b;
+	border-radius:0;
+}
+
+/*---------JUMBOTRON----------*/
+
+.jumbotron#aca h1 {
+    color: #fff;
+}
+
+jumbotron#aca {
+	background-image:url("./img/aca-jumbo.png");
+	
+}
+
+.jumbotron {
+    padding: 5%;
+}
+
+.jumbotron p {
+    width: 40%;
+	margin-top:2%;
+	color:#fff;
+}
+/*---------SECTION----------*/
+
+.section {
+    margin-top: 7%;
+    background: #fff;
+}
+
+.section h2 {
 }
