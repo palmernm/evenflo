@@ -383,6 +383,10 @@ div#learnmore p {
 	margin-bottom: 10%;
 }
 
+.row#where .col-xs-6.col-md-3 {
+    margin-bottom: 15px;
+}
+
 .col-xs-6.col-md-3#initial {
 	background: #5dc7cb;	
 }
