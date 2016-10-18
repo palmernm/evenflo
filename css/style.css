@@ -187,6 +187,107 @@ select[name=state] {
 	width:100%;
 }
 
+button.occasional {
+    display: inline-block;
+    width: 230px;
+    margin-left: -17px;
+    height: 20%;
+    background: #5dc7cb;
+    margin-right: 10px;
+    text-align: center;
+    border: none;
+    margin-top: 9px;
+}
+
+button.learnmore {
+    display: inline-block;
+    width: 230px;
+    background: #FFC756;
+    margin-right: 10px;
+    text-align: center;
+    padding-bottom: 0px;
+    height: auto;
+    border: none;
+    margin-top: 0px;
+    margin-left: -17px;
+    margin-bottom: 3%;
+}
+button.occasional1 {
+    display: inline-block;
+    width: 230px;
+    margin-left: -17px;
+    height: 20%;
+    background: #5dc7cb;
+    margin-right: 10px;
+    text-align: center;
+    border: none;
+    margin-top: -1px;
+}
+
+button.learnmore1 {
+    display: inline-block;
+    width: 230px;
+    background: #FFC756;
+    margin-right: 10px;
+    text-align: center;
+    padding-bottom: 0px;
+    height: auto;
+    border: none;
+    margin-top: 0px;
+    margin-left: -17px;
+    margin-bottom: 3%;
+}
+button.occasional2 {
+    display: inline-block;
+    width: 230px;
+    margin-left: -17px;
+    height: 20%;
+    background: #5dc7cb;
+    margin-right: 10px;
+    text-align: center;
+    border: none;
+    margin-top: 27px;
+}
+
+button.learnmore2 {
+    display: inline-block;
+    width: 230px;
+    background: #FFC756;
+    margin-right: 10px;
+    text-align: center;
+    padding-bottom: 0px;
+    height: auto;
+    border: none;
+    margin-top: 0px;
+    margin-left: -17px;
+    margin-bottom: 3%;
+}
+button.occasional3 {
+    display: inline-block;
+    width: 230px;
+    margin-left: -17px;
+    height: 20%;
+    background: #5dc7cb;
+    margin-right: 10px;
+    text-align: center;
+    border: none;
+    margin-top: 77px;
+}
+
+button.learnmore3 {
+    display: inline-block;
+    width: 230px;
+    background: #FFC756;
+    margin-right: 10px;
+    text-align: center;
+    padding-bottom: 0px;
+    height: auto;
+    border: none;
+    margin-top: 0px;
+    margin-left: -17px;
+    margin-bottom: 3%;
+}
+
 .col-xs-6.col-md-3#occasional {
 	display: inline-block;
 	width: 230px;
