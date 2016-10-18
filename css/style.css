@@ -197,6 +197,9 @@ button.occasional {
     text-align: center;
     border: none;
     margin-top: 9px;
+	color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
 }
 
 button.learnmore {
@@ -211,6 +214,9 @@ button.learnmore {
     margin-top: 0px;
     margin-left: -17px;
     margin-bottom: 3%;
+	color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
 }
 button.occasional1 {
     display: inline-block;
@@ -222,6 +228,9 @@ button.occasional1 {
     text-align: center;
     border: none;
     margin-top: -1px;
+	color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
 }
 
 button.learnmore1 {
@@ -236,6 +245,9 @@ button.learnmore1 {
     margin-top: 0px;
     margin-left: -17px;
     margin-bottom: 3%;
+	color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
 }
 button.occasional2 {
     display: inline-block;
@@ -247,6 +259,9 @@ button.occasional2 {
     text-align: center;
     border: none;
     margin-top: 27px;
+	color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
 }
 
 button.learnmore2 {
@@ -261,6 +276,9 @@ button.learnmore2 {
     margin-top: 0px;
     margin-left: -17px;
     margin-bottom: 3%;
+	color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
 }
 button.occasional3 {
     display: inline-block;
@@ -272,6 +290,9 @@ button.occasional3 {
     text-align: center;
     border: none;
     margin-top: 77px;
+	color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
 }
 
 button.learnmore3 {
@@ -286,6 +307,9 @@ button.learnmore3 {
     margin-top: 0px;
     margin-left: -17px;
     margin-bottom: 3%;
+	color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
 }
 
 .col-xs-6.col-md-3#occasional {
