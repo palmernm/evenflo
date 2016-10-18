@@ -229,7 +229,7 @@ select[name=state] {
 	display: inline-block;
 	width: 24%;
 	height: 20%;
-	background: #48979c;
+	background: #5dc7cb;
 	margin-right: 5px;
 	text-align:center;
 }
@@ -245,7 +245,7 @@ select[name=state] {
 	display: inline-block;
 	width: 24%;
 	height: 20%;
-	background: #48979c;
+	background: #5dc7cb;
 	margin-right: 5px;
 	text-align:center;
 }
@@ -280,17 +280,57 @@ select[name=state] {
 
 
 .suppliers {
-    display: block;
+    display: inline-block;
     width: 100%;
+	margin-left:auto;
+	margin-right:auto;
 }
 
-.flexbox {
-	width: 23%;
-    height: 222px;
-    padding: 15px;
+.boxrow {
+	width: 230px;
+    height: 210px;
+    padding: 25px 15px 15px 25px;
     border: 2px solid #d1d1d1;
     display: inline-block;
     margin-top: 2%;
     margin-right: 10px;
     margin-bottom: 2%;
+	min-width:200px;
+}
+
+.boxrow#initial {
+	background: #5dc7cb;	
+}
+
+.boxrow#initial h3 {
+	vertical-align: middle;
+	color:#fff;	
+}
+
+.boxrow h4 {
+	color:#ec008b;
+	font-size:13px;
+	fon-weight:500;
+}
+
+p.more {
+    margin-top: 20px;
+	margin-bottom:20px;
+}
+
+p.more a {
+	color:#5dc7cb;	
+	font-weight:600;
+}
+
+button.jumbo {
+    position: absolute;
+    margin-top: -13%;
+    margin-left: 5%;
+    padding: 10px;
+    width: 7%;
+    background: #ec008b;
+    border: none;
+    color: #fff;
+	text-transform:uppercase;
 }
