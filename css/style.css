@@ -177,80 +177,27 @@ select[name=state] {
 .section p {
 }
 
-.box1 {
-	width: 24%;
-	max-height: 255px;
+.col-xs-6.col-md-3 img {
+	width:85%;
+	margin-top:2%;
+}
+
+#small img {
+	margin-top:16%;
+	width:100%;
+}
+
+.col-xs-6.col-md-3#occasional {
 	display: inline-block;
-	border: 1px solid #d3d3d3;
-	margin-right: 5px;
-}
-
-.box1 img {
-	max-height: 255px;
-	max-width: 90%;
-	padding-left: 5%;
-	padding-top: 9%;
-	padding-bottom: 6%;
-}
-
-.box2 {
-	width: 24%;
-	max-height: 255px;
-	display: inline-block;
-	border: 1px solid #d3d3d3;
-	margin-right: 5px;
-}
-
-.box2 img {
-	max-height: 255px;
-	max-width: 90%;
-	padding-left: 5%;
-	padding-top: 9%;
-	padding-bottom: 6%;
-}
-
-.box3 {
-	width: 24%;
-	max-height: 255px;
-	display: inline-block;
-	border: 1px solid #d3d3d3;
-	margin-right: 5px;
-}
-
-.box3 img {
-    max-height: 255px;
-	max-width: 90%;
-	padding-left: 5%;
-	padding-top: 37%;
-	padding-bottom: 6%;
-
-}
-
-.box4 {
-	width: 24%;
-	max-height: 255px;
-	display: inline-block;
-	border: 1px solid #d3d3d3;
-}
-
-.box4 img {
-   	max-height: 255px;
-	max-width: 90%;
-	padding-left: 5%;
-	padding-top: 37%;
-	padding-bottom: 26%;
-}
-
-.occasional {
-	display: inline-block;
-	width: 24%;
+	width: 230px;
 	height: 20%;
 	background: #5dc7cb;
-	margin-right: 5px;
+	margin-right: 10px;
 	text-align:center;
+	border:none;
 }
 
-.occasional p {
+.col-xs-6.col-md-3#occasional p {
 	color: #FFFFFF;
 	padding-top: 5%;
 	text-transform:uppercase;
@@ -262,7 +209,7 @@ select[name=state] {
 	width: 24%;
 	height: 20%;
 	background: #5dc7cb;
-	margin-right: 5px;
+	margin-right: 10px;
 	text-align:center;
 }
 
@@ -274,20 +221,23 @@ select[name=state] {
 
 
 
-.learnmore {
+.col-xs-6.col-md-3#learnmore {
     display: inline-block;
-    width: 24%;
+    width: 230px;
     background: #FFC756;
-    margin-right: 5px;
+    margin-right: 10px;
     text-align: center;
     padding-bottom: 0px;
     padding-top: 10px;
+	height: auto;
+	border:none;
+	margin-top: -15px;
 }
 
-.learnmore p {
-	color: #FFFFFF;
-	text-transform:uppercase;
-	vertical-align:middle;
+div#learnmore p {
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
 }
 
 .tab-pane#where h2 {
