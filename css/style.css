@@ -432,6 +432,45 @@ button.jumbo {
 button.jumbo {
 	margin-top:-9%;	
 }
+
+
+/*----section-----*/
+
+.feature {
+    display: inline-block;
+
+}
+
+.block1 {
+    display: inline-block;
+}
+
+.block1 img {
+    max-width: 25%;
+}
+
+.block2 {
+    display: inline-block;
+    margin-left: 80%;
+}
+
+.block2 img {
+    max-width: 120%;
+}
+
+.text {
+    display: inline-block;
+}
+
+.text p {
+    display: inline;
+}
+
+.text2 {
+    display: inline-block;
+    margin-right: 25%;
+}
+
 	
 }
 
